@@ -1,0 +1,10 @@
+{
+    "quiz_mode": "terms",
+    "vocab_list": "",
+    "shuffle": true,
+    "record_incorrect_answers": true,
+    "overwrite_old_answersheet_on_new_quiz": true,
+    "show_final_report": true,
+    "create_new_quiz_with_incorrect_answers": true,
+    "new_csv_file_name": "output.csv"
+}
